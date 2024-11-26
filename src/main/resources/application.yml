@@ -1,0 +1,6 @@
+spring:
+  config:
+    weatherApiKey: 4739a1a84b1446c29d695448241910
+    telegramBotToken: 7918329544:AAHLQ0whwzC7lw0V2LfvR8R8zLmdDAAT_fw
+  application:
+    name: weatherUpdates
